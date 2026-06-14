@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Environment - never push this
+.env
+
+# Vector store
+backend/vectorstore/faiss_index/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# uv / python version files
+uv.lock
+pyproject.toml
+.python-version
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
