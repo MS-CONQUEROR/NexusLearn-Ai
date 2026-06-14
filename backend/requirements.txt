@@ -15,5 +15,6 @@ pypdf
 python-docx
 python-pptx
 faiss-cpu
+python-multipart
 
 #model = llama-3.3-70b-versatile
