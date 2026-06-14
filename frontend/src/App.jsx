@@ -4,7 +4,7 @@ import Sidebar from "./components/Sidebar"
 import ChatWindow from "./components/ChatWindow"
 import InputBar from "./components/InputBar"
 
-const API = "http://localhost:8000"
+const API = "https://nexuslearn-ai-production.up.railway.app"
 
 export default function App() {
   const [messages, setMessages] = useState([
